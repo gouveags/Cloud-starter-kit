@@ -11,6 +11,9 @@ Cloud computing is increasingly important in the job market and daily life, but 
 - **Open Source**: Hosted on GitHub to encourage collaboration, feedback, and improvements from the global community.
 - **License**: Released under [MIT License](https://opensource.org/licenses/MIT).
 
+## Available Translations
+- [Português Brasileiro (pt-BR)](README.pt-br.md)
+
 ## Target Audience
 
 This guide is aimed at:
